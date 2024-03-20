@@ -3,12 +3,15 @@
 <br>
 
 ## ❯ Getting Started
-
-### Getting project:
-
+#### Getting project:
 ```bash
 git clone https://...
 ```
+#### Configuring job time for run
+```bash
+folder: resources/jobs.properties
+```
+#### The project is ready to run
 
 
 
